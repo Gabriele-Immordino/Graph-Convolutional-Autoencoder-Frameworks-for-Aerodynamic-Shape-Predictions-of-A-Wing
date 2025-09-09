@@ -48,7 +48,7 @@ Workflow:
 1. **Generate adjacency matrix** for the unstructured surface mesh:
    ```bash
    Dimensionality_reduction\Adjency_matrix\write_connectivity_matrix_3D_unstructured.ipynb
-````
+   ````
 
 2. **Run the dimensionality reduction module**:
 
