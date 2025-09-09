@@ -76,6 +76,7 @@ Citation
 -------------
 
 If you use this code or dataset in your research, please cite:
+
 D. Massegur Sampietro, G. Immordino, A. Vaiuso, A. Da Ronch, and M. Righi.  
 Graph-Convolutional Autoencoder Frameworks for Aerodynamic Shape Predictions of the Agard Wing.  
 In AIAA SCITECH 2025 Forum, page 0885, 2025.  
